@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 , I am Paul Thomas 
+
+
+I'm a Computer Science and Engineering Student
+I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technolog.
 
 <!--
 **PaulThomas20002/PaulThomas20002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
