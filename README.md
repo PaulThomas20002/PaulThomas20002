@@ -3,7 +3,8 @@
 <hr>
 I'm a Computer Science and Engineering Student
 I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technology.
-<hr>
+<hr><br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulThomas20002)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulThomas20002)](https://github.com/anuraghazra/github-readme-stats)
 <br><center>
