@@ -1,7 +1,5 @@
 ### Hi there 👋 , I am Paul Thomas 
-<div style="width:100%;height:0;padding-bottom:89%;position:relative;"></div><p>
-  
-<a href="#"><img src= src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="100%"/></a>
+<a href="#"><img src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="100%"/></a>
 
 <hr>
 I'm a Computer Science and Engineering Student
