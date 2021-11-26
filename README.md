@@ -1,5 +1,5 @@
 ### Hi there 👋 , I am Paul Thomas 
-<a href="#"><img src="https://giphy.com/embed/h408T6Y5GfmXBKW62l.gif" width="100%"/></a>
+<a href="#"><img src="https://media.istockphoto.com/photos/network-security-cyber-security-digital-protection-computer-hack-picture-id1007464396" width="100%"/></a>
 
 <hr>
 I'm a Computer Science and Engineering Student
