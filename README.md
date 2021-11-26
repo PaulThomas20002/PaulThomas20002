@@ -1,5 +1,4 @@
-### Hi there 👋 , I am Paul Thomas 
-<a href="#"><img src="https://media.istockphoto.com/photos/network-security-cyber-security-digital-protection-computer-hack-picture-id1007464396" width="100%"/></a>
+<h1 align="center">### Hi there 👋 , I am Paul Thomas </h1>
 
 <hr>
 I'm a Computer Science and Engineering Student
