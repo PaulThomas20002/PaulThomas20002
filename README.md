@@ -9,11 +9,7 @@ I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technology.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulThomas20002)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<center>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulThomas20002&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</center>
+center>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulThomas20002&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats</center>
 <br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulThomas20002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
