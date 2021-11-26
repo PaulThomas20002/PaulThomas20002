@@ -5,6 +5,7 @@ I'm a Computer Science and Engineering Student
 I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technology.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulThomas20002)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulThomas20002&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
