@@ -20,9 +20,8 @@ I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technology.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PaulThomas20002)](https://github.com/PaulThomas20002/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?usernamePaulThomas20002&theme=onedark)](https://github.com/PaulThomas20002/github-profile-trophy)
 
-
+https://github-profile-trophy.vercel.app/?username=PaulThomas20002&row=2&column=3
 
 
 <!--
