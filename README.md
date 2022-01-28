@@ -1,3 +1,4 @@
+![alt text](./images/top.svg)
 <h1 align="center"> Hi there 👋 , I am Paul Thomas </h1>
 
 <hr>
