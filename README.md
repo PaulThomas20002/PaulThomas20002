@@ -13,6 +13,8 @@ I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technology.
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulThomas20002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulThomas20002)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@paulthomas20002's Holopin board](https://holopin.io/api/user/board?user=paulthomas20002)](https://holopin.io/@paulthomas20002)
+
 ![Profile views](https://komarev.com/ghpvc/?username=PaulThomas&color=blue&style=plastic)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PaulThomas20002&column=7&margin-w=15&margin-h=15)](https://github.com/PaulThomas20002/github-profile-trophy)
