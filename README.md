@@ -10,7 +10,8 @@ I’m doing my B.Tech from Adi Shankara Institute of Engineering & Technology.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PaulThomas20002&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PaulThomas20002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PaulThomas20002&bg_color=000000&color=0076f5&line=54f8d7&point=519be1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulThomas20002)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@paulthomas20002's Holopin board](https://holopin.io/api/user/board?user=paulthomas20002)](https://holopin.io/@paulthomas20002)
