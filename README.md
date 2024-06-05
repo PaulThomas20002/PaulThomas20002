@@ -19,10 +19,7 @@
 
 ### Tools I work upon : 🛠
 
-<img src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
-<img src="http://img.shields.io/badge/Svelte-23777BB4?style=for-the-badge&logo=svelte&logoColor=blue">
+<img src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"><img src="http://img.shields.io/badge/Svelte-23777BB4?style=for-the-badge&logo=svelte&logoColor=blue">
 
 
 ![](https://hit.yhype.me/github/profile?user_id=64391274)
