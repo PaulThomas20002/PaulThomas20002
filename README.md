@@ -7,9 +7,9 @@
 <a href="mailto:paulthomas20002@gmail.com">
 <img src="https://img.shields.io/badge/-paulthomas20002%40gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  
   <a  href="https://www.instagram.com/paul_thomas_20002/">   
-    <img src="https://img.shields.io/badge/@PaulThomas20002_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+    <img src="https://img.shields.io/badge/@paul_thomas_20002-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href="https://www.linkedin.com/in/paulthomas20002/">
-    <img src="https://img.shields.io/badge/Anbarasu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+    <img src="https://img.shields.io/badge/Paul Thomas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <img src="https://komarev.com/ghpvc/?username=PaulThomas20002&color=brightgreen&style=for-the-badge" > </img>
 
 </div>
